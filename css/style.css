@@ -20,11 +20,20 @@ section {
     padding-top: 3rem;
     padding-bottom: 3rem;
     margin-bottom: 0;
+    height: 100vh;  
+    color: aquamarine;      
+  }
+
+  .a1 {
     background-image: url('../img/rms.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;  
-    color: aquamarine;      
+  }
+
+  .a2 {
+    background-image: url('../img/gnu.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
   }
 
   
